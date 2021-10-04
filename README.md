@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AlamMks1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Alam
+- 👀 I’m interested in Python projects
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python automation scripts and ML and AI.
+- 📫 reach me through alammks1@gmail.com
 
 <!---
 AlamMks1/AlamMks1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
